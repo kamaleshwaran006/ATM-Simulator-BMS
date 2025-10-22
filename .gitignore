@@ -1,0 +1,40 @@
+# IntelliJ IDEA
+/.idea/
+/out/
+
+# Compiled class files
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Maven and Gradle folders (if used)
+/target/
+/build/
+
+# Ignore database files (if any)
+/*.db
+
+# Ignore generated files
+*.jar
+*.war
